@@ -86,5 +86,30 @@ TODO - Some more complex programs in python
 18 Sep     :    Papers on Automatic detection of Critical Section,Memory Management,Multithreading.
 				http://www.cs.utexas.edu/~kahlon/papers/fmcad12.pdf
 				http://drum.lib.umd.edu/bitstream/1903/12820/1/Stechschulte_umd_0117N_13240.pdf
+				
+19,20 Sep  :    Gone through
+                http://gcc.gnu.org/
+                http://www.google.com/patents/US20030079094
+                http://gcc.gnu.org/onlinedocs/libstdc++/manual/using_concurrency.html
+                
+21-23 Sep  :    http://www.cs.huji.ac.il/~etsman/Docs/gcc-3.4-base/libstdc++/html/17_intro/howto.html
+                GCC Manual
+                http://www.csc.villanova.edu/~mdamian/threads/posixthreads.html
+                http://gcc.gnu.org/onlinedocs/gcc-4.7.2/gcc/
+
+24 Sep     :    Meeting
+
+25 Sep     :    Multithreaded Program.
+
+26 S 4 Oct :    Persistent,Rakuten,Synechron
+
+05-11 Oct  :    Submission
+                FTR in College
+                
+12 Oct     :    Minimum Lock Assignmnet,method for exploring concurrency among critical sections.     
+
+13 Oct-26 Nov : Exam 
+
+27-28 Nov  :    Multithreading,Semaphore,Critical Section,Mutex.           
 
 
